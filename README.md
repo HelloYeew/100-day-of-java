@@ -1,6 +1,11 @@
-# 100 Day of my Java journey
-My Java journey from zero to hero in 100 days!
+# My Java and Javascript journey
+My Java and Javascript journey from zero.
 
-Start : TBD
+# Timer
+I want to know in 100 days what I learn and study.
 
-End (Expect) : TBD
+Start : 15 November 2020
+
+End (Expect) : 23 February 2020
+
+Ps. I want to skip my final exam so I will change end time later.
