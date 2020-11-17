@@ -1,5 +1,5 @@
-# My Java and Javascript journey
-My Java and Javascript journey from zero.
+# My Java and JavaScript journey
+My Java and JavaScript journey from zero.
 
 # Timer
 I want to know in 100 days what I learn and study.
