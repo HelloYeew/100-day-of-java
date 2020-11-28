@@ -8,6 +8,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "Main",
+            "projectName": "my-java-and-javascript-journey_ee070a15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "Java.coffee_machine_2.Main",
             "projectName": "my-java-and-javascript-journey_ee070a15"
         },
