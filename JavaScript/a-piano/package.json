@@ -1,0 +1,12 @@
+{
+    "scripts": {
+      "start": "snowpack dev",
+      "build": "snowpack build",
+      "test": "echo \"This template does not include a test runner by default.\" && exit 1",
+      "format": "prettier --write \"src/**/*.ts\"",
+      "lint": "prettier --check \"src/**/*.ts\""
+    },
+    "devDependencies": {
+        "snowpack": "^2.14.0"
+    }
+}
